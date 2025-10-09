@@ -4,3 +4,5 @@ scikit-learn
 tensorflow
 h5py
 joblib
+matplotlib
+seaborn
