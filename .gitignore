@@ -184,4 +184,8 @@ venv/
 dataset/
 .DS_Store
 processed_dataset/
+# Ignore training artifacts
+checkpoints/
+logs/
+training_progress.json
 
