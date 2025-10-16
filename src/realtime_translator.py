@@ -27,7 +27,7 @@ model.load_weights(MODEL_WEIGHTS_PATH)
 
 print("Model loaded successfully!")
 
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(1)
 
 while True:
     ret, frame = cap.read()
